@@ -14,12 +14,12 @@ cturing Information (PMI)---4.0---2014-10-13',
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ '6981b8aecae059e952003a64',
-/* time_stamp */ '2026-02-03T08:58:22Z',
+/* name */ 'x500v2-frame parts - Part 53 - Part 53',
+/* time_stamp */ '2026-09-04T01:13:51Z',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
-/* originating_system */ 'ONSHAPE BY PTC INC, 1.210',
+/* originating_system */ 'ONSHAPE BY PTC INC, 1.220',
 /* authorisation */ '  ');
 
 FILE_SCHEMA (('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 3 1 4 }'));
